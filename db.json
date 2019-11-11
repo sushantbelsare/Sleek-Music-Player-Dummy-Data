@@ -1,6 +1,7 @@
 {
 "lists": [
- "popular songs": [
+ {
+  "popular songs": [
  {"id": 01,
  "title": "Higher Love",
  "artist": "Kygo"
@@ -9,8 +10,6 @@
  "title": "Sweet Nothing",
  "artist": "Calvin Harris"
  }
- ],
- "new songs": [
-  ]
+ ]}
  ]
 }
