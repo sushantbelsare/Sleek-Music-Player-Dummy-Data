@@ -1,7 +1,8 @@
 {
 "lists": [
  {
-  "popular songs": [
+  "title": "Popular Songs",
+  "songlist": [
        {"id": 101,
        "title": "Higher Love",
        "artist": "Kygo"
@@ -13,7 +14,8 @@
     ]
   },
  {
-  "new songs": [
+  "title": "New Songs",
+  "songlist": [
       {
        "id": 201,
        "title": "Panda",
