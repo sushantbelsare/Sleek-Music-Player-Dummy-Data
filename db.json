@@ -1,8 +1,8 @@
 {
-"lists":[
- "popular songs":[
- {"id":01
- "title": "Higher Love"
+"lists": [
+ "popular songs": [
+ {"id": 01,
+ "title": "Higher Love",
  "artist": "Kygo"
  },
  {"id": 02,
