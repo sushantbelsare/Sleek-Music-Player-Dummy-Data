@@ -1,5 +1,4 @@
-{
-"lists": [
+[
  {
   "title": "Popular Songs",
   "songlist": [
@@ -28,5 +27,4 @@
       }
    ]
  }
- ]
-}
+]
